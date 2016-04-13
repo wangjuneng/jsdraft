@@ -1,0 +1,1 @@
+This project is for the sake of self learning js
